@@ -22,4 +22,4 @@ class TestCalc(unittest.Testcase):
     self.assertEqual(result,2)
 
 if __name__ == '__main__':
-unittest.main()
+  unittest.main()
